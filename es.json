@@ -34,7 +34,7 @@
     "lng_settings_hide_stories": "Ocultar historias",
     "lng_settings_use_gt_api" : "Usar Google Translate",
     "lng_settings_show_similar_on_joined" : "Ver canales similares al unirte",
-    "lng_settings_screen_shot_mode": "Modo captura pantalla",
+    "lng_settings_screen_shot_mode": "Modo captura",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
