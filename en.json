@@ -25,15 +25,15 @@
     "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_hide_messages": "Hide messages from blocked user",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
-    "lng_settings_disable_premium_annoyance" = "Disable Premium/Stars Annoyance (WIP)",
+    "lng_settings_disable_premium_annoyance" : "Disable Premium/Stars Annoyance (WIP)",
     "lng_settings_disable_global_search": "Disable global search",
-    "lng_settings_show_group_sender_avatar" = "Show sender's avatar in groups",
+    "lng_settings_show_group_sender_avatar" : "Show sender's avatar in groups",
     "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_use_gt_api" = "Use Google Translate",
-    "lng_settings_show_similar_on_joined" = "Show similar channels on join message",
+    "lng_settings_use_gt_api" : "Use Google Translate",
+    "lng_settings_show_similar_on_joined" : "Show similar channels on join message",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "WARNING: Changing options that are colored in red will take effect only after the app restarts.",
 
@@ -142,5 +142,5 @@
 
     "lng_blocked_user_hint": "[Blocked User Message]\n",
     
-    "lng_contact_is_mutual" = "This contact is a mutual contact.",
+    "lng_contact_is_mutual" : "This contact is a mutual contact.",
 }
