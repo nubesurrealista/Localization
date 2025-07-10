@@ -11,7 +11,7 @@
     "lng_settings_repeater_reply_to_orig_msg": "Responder al mensaje original",
     "lng_settings_disable_cloud_draft_sync": "No sincronizar los borradores con la nube",
     "lng_settings_hide_classic_forward": "Ocultar reenvío clásico",
-    "lng_settings_show_phone_number": "Mostrar número de tel.",
+    "lng_settings_show_phone_number": "Mostrar teléfono",
     "lng_settings_show_scheduled_button": "Mostrar siempre el botón programado",
     "lng_settings_voice_chat": "Chat de Voz",
     "lng_settings_stereo_mode": "Habilitar el Modo Estéreo",
@@ -34,7 +34,7 @@
     "lng_settings_hide_stories": "Ocultar historias",
     "lng_settings_use_gt_api" : "Usar Google Translate",
     "lng_settings_show_similar_on_joined" : "Ver canales similares al unirte",
-    "lng_settings_screen_shot_mode": "Modo de captura de pantalla",
+    "lng_settings_screen_shot_mode": "Modo captura pantalla",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
@@ -107,7 +107,7 @@
     "lng_context_show_messages_from": "Mensajes del usuario",
     "lng_context_repeat_msg": "Repetir como reenvío",
     "lng_context_repeat_msg_no_fwd": "Repetir como copia",
-    "lng_context_forward_msg_no_quote": "Reenviar como copia",
+    "lng_context_forward_msg_no_quote": "Reenviar sin citar",
     "lng_forward_to_saved_message": "Reenviar a guardados",
     "lng_context_repeater": "Repetir",
     "lng_context_forward": "Reenviar",
@@ -138,7 +138,7 @@
 
     "lng_copy_profile_id": "ID copiado al portapapeles.",
 
-    "lng_group_requests_ban": "Expulsar",
+    "lng_group_requests_ban": "Banear",
 
     "lng_blocked_user_hint": "[Mensaje de usuario bloqueado]\n",
     
