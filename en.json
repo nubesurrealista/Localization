@@ -143,4 +143,6 @@
     "lng_blocked_user_hint": "[Blocked User Message]\n",
     
     "lng_contact_is_mutual" : "This contact is a mutual contact.",
+    
+    "lng_gt_target_language": "Google/Telegram Translate target language"
 }

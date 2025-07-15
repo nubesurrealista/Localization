@@ -142,5 +142,7 @@
 
     "lng_blocked_user_hint": "[Mensaje de usuario bloqueado]\n",
     
-    "lng_contact_is_mutual": "Este usuario es un contacto mutuo."
+    "lng_contact_is_mutual": "Este usuario es un contacto mutuo.",
+    
+    "lng_gt_target_language": "Lenguaje de traducción Google/Telegram"
 }
