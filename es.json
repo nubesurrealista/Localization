@@ -144,5 +144,6 @@
     
     "lng_contact_is_mutual": "Este usuario es un contacto mutuo.",
     
-    "lng_gt_target_language": "Lenguaje de traducción Google/Telegram"
+    "lng_gt_target_language": "Lenguaje de traducción Google/Telegram",
+    "lng_gt_target_language_desc": "NOTA: Este ajuste es valido tanto para el cuadro de texto como para los chats."
 }

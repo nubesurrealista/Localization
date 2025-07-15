@@ -144,5 +144,6 @@
     
     "lng_contact_is_mutual" : "This contact is a mutual contact.",
     
-    "lng_gt_target_language": "Google/Telegram Translate target language"
+    "lng_gt_target_language": "Google/Telegram Translate target language",
+    "lng_gt_target_language_desc": "NOTE: This setting is valid for both input field and chat screen."
 }
