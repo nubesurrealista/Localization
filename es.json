@@ -150,5 +150,5 @@
     "lng_gt_target_input_language": "Idioma de traducción del cuadro de texto",
 "lng_gt_target_input_language_desc": "NOTA: Este ajuste es solo valido para el cuadro de texto.",
 
-"lng_settings_hide_star_ratings" = "Ocultar calificación del perfil"
+"lng_settings_hide_star_ratings": "Ocultar calificación del perfil"
 }
