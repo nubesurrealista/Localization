@@ -150,5 +150,5 @@
     "lng_gt_target_input_language": "Google/Telegram Translate input target language",
 "lng_gt_target_input_language_desc": "NOTE: This setting is only valid for input field.",
 
-"lng_settings_hide_star_ratings" = "Hide user star ratings"
+"lng_settings_hide_star_ratings": "Hide user star ratings"
 }
