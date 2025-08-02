@@ -144,6 +144,11 @@
     
     "lng_contact_is_mutual": "Este usuario es un contacto mutuo.",
     
-    "lng_gt_target_language": "Lenguaje de traducción Google/Telegram",
-    "lng_gt_target_language_desc": "NOTA: Este ajuste es valido tanto para el cuadro de texto como para los chats."
+    "lng_gt_target_language": "Idioma de traducción global",
+    "lng_gt_target_language_desc": "NOTA: Este ajuste es valido solo para los chats.",
+    
+    "lng_gt_target_input_language": "Idioma de traducción del cuadro de texto",
+"lng_gt_target_input_language_desc": "NOTA: Este ajuste es solo valido para el cuadro de texto.",
+
+"lng_settings_hide_star_ratings" = "Ocultar calificación del perfil"
 }
