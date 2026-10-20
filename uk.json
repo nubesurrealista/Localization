@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "Ласкаво просимо до 64Gram Desktop.\nЦе швидкий і безпечний кліент",
+    "lng_intro_about2": "Ласкаво просимо до NFGram Desktop.\nЦе швидкий і безпечний кліент",
 
     "lng_settings_enhanced": "Додаткові налаштування",
     "lng_settings_network": "Мережа",
     "lng_settings_net_upload_speed_boost": "Збільшення швидкості відвантаження",
-    "lng_settings_net_download_speed_boost": "Збільшення швидкості завантаження",
     "lng_settings_show_message_id": "Відображати ID повідомлення",
     "lng_settings_button": "Кнопки",
     "lng_settings_show_emoji_button_as_text": "Букви замість емодзі",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Вимкнути Premium-анімації",
     "lng_settings_disable_global_search": "Вимкнути глобальний пошук",
     "lng_settings_show_seconds": "Відображати час з секундами",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Приховати лічильник користувачів у мережі",
     "lng_settings_hide_stories": "Приховати історії",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIF",
-    "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Тут немає жодного GIF",
 
     "lng_create_supergroup_title": "Створити супергрупу",

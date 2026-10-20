@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "64Gram 데스크톱 앱에 오신것을 환영합니다.\n더 빠르고 보안에 충실합니다.",
+    "lng_intro_about2": "NFGram 데스크톱 앱에 오신것을 환영합니다.\n더 빠르고 보안에 충실합니다.",
 
     "lng_settings_enhanced": "향상된 설정",
     "lng_settings_network": "네트워크",
     "lng_settings_net_upload_speed_boost": "업로드 속도 부스트",
-    "lng_settings_net_download_speed_boost": "다운로드 속도 부스트",
     "lng_settings_show_message_id": "메시지 ID 보이기",
     "lng_settings_button": "버튼",
     "lng_settings_show_emoji_button_as_text": "이모지 버튼을 텍스트로 보이기",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "프리미엄 애니메이션 비활성화",
     "lng_settings_disable_global_search": "전역 검색 비활성화",
     "lng_settings_show_seconds": "시간(초)",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "온라인 사용자 수 숨기기",
     "lng_settings_hide_stories": "스토리 숨기기",
     "lng_settings_screen_shot_mode": "스크린샷 모드",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "Gifs",
     "lng_profile_gifs#one": "{count} gif",
     "lng_profile_gifs#other": "{count} gifs",
-    "lng_profile_gifs_header": "Gifs",
     "lng_media_gif_empty": "여기에 gifs가 없습니다",
 
     "lng_create_supergroup_title": "슈퍼그룹 만들기",

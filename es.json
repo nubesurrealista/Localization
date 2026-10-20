@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Bienvenid@ a la app 64gram Desktop.\nEs rápida y segura.",
+    "lng_intro_about2": "Bienvenid@ a NFGram.\nEs rápido y seguro.",
 
     "lng_settings_enhanced": "Ajustes mejorados",
     "lng_settings_network": "Red",
@@ -25,11 +25,11 @@
     "lng_settings_disable_link_warning": "Deshabilitar advertencia al abrir enlaces",
     "lng_settings_hide_messages": "Ocultar mensajes de usuarios bloqueados",
     "lng_settings_disable_premium_animation": "Deshabilitar animación premium",
-    "lng_settings_disable_premium_annoyance" : "Quitar spam premium/estrellas (WIP)",
+    "lng_settings_disable_premium_annoyance" : "Quitar spam premium/estrellas",
     "lng_settings_disable_global_search": "Deshabilitar búsqueda global",
     "lng_settings_show_group_sender_avatar" : "Mostrar avatar del remitente en grupos",
     "lng_settings_show_seconds": "Tiempo con segundos",
-    "lng_settings_show_view_as_json": "Mostrar vista como JSON",
+    "lng_settings_show_forwarded_date": "Mostrar fecha del mensaje reenviado",
     "lng_settings_hide_counter": "Ocultar contador de usuarios en línea",
     "lng_settings_hide_stories": "Ocultar historias",
     "lng_settings_use_gt_api" : "Usar Google Translate",
@@ -66,6 +66,16 @@
     "lng_selected_forward_no_quote": "Reenviar (con/sin citar)",
     "lng_context_forward_msg_old_selected": "Reenviar seleccionado (Clásico)",
     "lng_selected_forward_emoji_classic": "📠(Clásico)",
+    "lng_selected_forward_emoji": "📠",
+    "lng_selected_forward_no_quote_emoji": "🖨️",
+    "lng_forward_to_saved_message_emoji": "💾",
+    "lng_selected_delete_emoji": "🗑️",
+
+    "lng_selected_forward_text_classic": "R(Clásico)",
+    "lng_selected_forward_text": "R",
+    "lng_selected_forward_no_quote_text": "C",
+    "lng_forward_to_saved_message_text": "G",
+    "lng_selected_delete_text": "E",
 
     "lng_message_id": "ID del Mensaje: ",
 
@@ -83,7 +93,6 @@
     "lng_media_type_gifs": "GIFs",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIFs",
-    "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "No hay GIFs aquí todavía",
 
     "lng_create_supergroup_title": "Nuevo supergrupo",
@@ -146,6 +155,7 @@
     
     "lng_gt_target_language": "Idioma de traducción global",
     "lng_gt_target_language_desc": "NOTA: Este ajuste es valido solo para los chats.",
+    "lng_gt_target_language_default": "Idioma del usuario",
     
     "lng_gt_target_input_language": "Idioma de traducción del cuadro de texto",
 "lng_gt_target_input_language_desc": "NOTA: Este ajuste es solo valido para el cuadro de texto.",

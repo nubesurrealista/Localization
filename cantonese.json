@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "歡迎使用 64Gram 桌面應用程式。\n訊息傳送又快又安全！",
+    "lng_intro_about2": "歡迎使用 NFGram 桌面應用程式。\n訊息傳送又快又安全！",
 
     "lng_settings_enhanced": "增强設定",
     "lng_settings_network": "網絡",
     "lng_settings_net_upload_speed_boost": "上載加速",
-    "lng_settings_net_download_speed_boost": "下載加速",
     "lng_settings_show_message_id": "顯示訊息 ID",
     "lng_settings_button": "按鈕",
     "lng_settings_show_emoji_button_as_text": "用文字嚟顯示表情符號",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "停用同 Premium 有關嘅動畫",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "顯示時間嗰陣顯示埋秒數",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "唔計數喺度嘅用户",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} 張 GIF",
     "lng_profile_gifs#other": "{count} 張 GIF",
-    "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "仲未有 GIF",
 
     "lng_create_supergroup_title": "開新超級谷",

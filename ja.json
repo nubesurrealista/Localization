@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "64Gram デスクトップアプリケーションへようこそ\n高速で安全です",
+    "lng_intro_about2": "NFGram デスクトップアプリケーションへようこそ\n高速で安全です",
 
     "lng_settings_enhanced": "高度な設定",
     "lng_settings_network": "ネットワーク",
     "lng_settings_net_upload_speed_boost": "アップロード速度ブースト",
-    "lng_settings_net_download_speed_boost": "ダウンロード速度ブースト",
     "lng_settings_show_message_id": "メッセージIDを表示",
     "lng_settings_button": "ボタン",
     "lng_settings_show_emoji_button_as_text": "絵文字ボタンをテキストとして表示",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "プレミアムアニメーションを無効化",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "時間に秒も表示",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "オンラインのユーザー数を非表示",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIF",
-    "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "GIFがありません",
 
     "lng_create_supergroup_title": "新規スーパーグループ",

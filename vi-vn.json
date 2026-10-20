@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "Chào mừng đến ứng dụng 64Gram cho Desktop.\nNhanh chóng và bảo mật.",
+    "lng_intro_about2": "Chào mừng đến ứng dụng NFGram cho Desktop.\nNhanh chóng và bảo mật.",
 
     "lng_settings_enhanced": "Cài đặt nâng cao",
     "lng_settings_network": "Mạng",
     "lng_settings_net_upload_speed_boost": "Tăng tốc độ tải lên",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Hiển thị ID tin nhắn",
     "lng_settings_button": "Nút",
     "lng_settings_show_emoji_button_as_text": "Hiển thị nút biểu tượng cảm xúc dưới dạng văn bản",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Tắt hoạt ảnh cao cấp",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Thời gian tính bằng giây",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "Ảnh động",
     "lng_profile_gifs#one": "{count} ảnh động",
     "lng_profile_gifs#other": "{count} ảnh động",
-    "lng_profile_gifs_header": "Ảnh động",
     "lng_media_gif_empty": "Chưa có ảnh động nào ở đây",
 
     "lng_create_supergroup_title": "Siêu nhóm mới",

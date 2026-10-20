@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
+    "lng_intro_about2": "Welcome to NFGram.\nIt's fast and secure.",
 
     "lng_settings_enhanced": "Enhanced Settings",
     "lng_settings_network": "Network",
@@ -25,11 +25,11 @@
     "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_hide_messages": "Hide messages from blocked user",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
-    "lng_settings_disable_premium_annoyance" : "Disable Premium/Stars Annoyance (WIP)",
+    "lng_settings_disable_premium_annoyance" : "Disable Premium/Stars Annoyance",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_group_sender_avatar" : "Show sender's avatar in groups",
     "lng_settings_show_seconds": "Time with seconds",
-    "lng_settings_show_view_as_json": "Show View As JSON",
+    "lng_settings_show_forwarded_date": "Show forwarded message date",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_use_gt_api" : "Use Google Translate",
@@ -66,6 +66,16 @@
     "lng_selected_forward_no_quote": "Forward (w/o quote)",
     "lng_context_forward_msg_old_selected": "Forward Selected (Classic)",
     "lng_selected_forward_emoji_classic": "📠(Classic)",
+    "lng_selected_forward_emoji": "📠",
+    "lng_selected_forward_no_quote_emoji": "🖨️",
+    "lng_forward_to_saved_message_emoji": "💾",
+    "lng_selected_delete_emoji": "🗑️",
+
+    "lng_selected_forward_text_classic": "F(Classic)",
+    "lng_selected_forward_text": "F",
+    "lng_selected_forward_no_quote_text": "C",
+    "lng_forward_to_saved_message_text": "S",
+    "lng_selected_delete_text": "D",
 
     "lng_message_id": "Message ID: ",
 
@@ -83,7 +93,6 @@
     "lng_media_type_gifs": "Gifs",
     "lng_profile_gifs#one": "{count} gif",
     "lng_profile_gifs#other": "{count} gifs",
-    "lng_profile_gifs_header": "Gifs",
     "lng_media_gif_empty": "No gifs here yet",
 
     "lng_create_supergroup_title": "New Supergroup",
@@ -145,7 +154,8 @@
     "lng_contact_is_mutual" : "This contact is a mutual contact.",
     
     "lng_gt_target_language": "Google/Telegram Translate target language",
-    "lng_gt_target_language_desc": "NOTE: This setting is valid for both input field and chat screen.",
+    "lng_gt_target_language_desc": "NOTE: This setting is only valid for chat screen.",
+    "lng_gt_target_language_default": "User language",
     
     "lng_gt_target_input_language": "Google/Telegram Translate input target language",
 "lng_gt_target_input_language_desc": "NOTE: This setting is only valid for input field.",

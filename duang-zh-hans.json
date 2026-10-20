@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "欢迎使用 64Gram 桌面应用。\n我既快又安全。",
+    "lng_intro_about2": "欢迎使用 NFGram 桌面应用。\n我既快又安全。",
 
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
     "lng_settings_net_upload_speed_boost": "上行黑魔法",
-    "lng_settings_net_download_speed_boost": "下行黑魔法",
     "lng_settings_show_message_id": "显示消息 ID",
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "去掉大会员贴纸特技",
     "lng_settings_disable_global_search": "禁用全局搜索",
     "lng_settings_show_seconds": "消息时间显秒",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "隐藏喘气用户数",
     "lng_settings_hide_stories": "不想看动态",
     "lng_settings_screen_shot_mode": "我是谁",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} 张 GIF",
     "lng_profile_gifs#other": "{count} 张 GIF",
-    "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "暂无 GIF",
 
     "lng_create_supergroup_title": "新建超级群组",

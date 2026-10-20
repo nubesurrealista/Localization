@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "Witaj w aplikacji 64Gram Desktop.\nJest szybka i bezpieczna.",
+    "lng_intro_about2": "Witaj w aplikacji NFGram Desktop.\nJest szybka i bezpieczna.",
 
     "lng_settings_enhanced": "Rozszerzone ustawienia",
     "lng_settings_network": "Sieć",
     "lng_settings_net_upload_speed_boost": "Przyspieszenie wysyłania",
-    "lng_settings_net_download_speed_boost": "Przyspieszenie pobierania",
     "lng_settings_show_message_id": "Pokaż ID wiadomości",
     "lng_settings_button": "Przyciski",
     "lng_settings_show_emoji_button_as_text": "Pokaż przycisk emoji jako tekst",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Wyłącz animacje premium",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Czas z dokładnością do sekund",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Ukryj licznik użytkowników online",
     "lng_settings_hide_stories": "Ukryj relacje",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIFy",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIFy",
-    "lng_profile_gifs_header": "GIFy",
     "lng_media_gif_empty": "Brak GIFów",
 
     "lng_create_supergroup_title": "Nowa supergrupa",

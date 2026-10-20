@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "Καλώς ήρθατε στην εφαρμογή 64Gram Desktop.\nΕίναι γρήγορη και ασφαλής.",
+    "lng_intro_about2": "Καλώς ήρθατε στην εφαρμογή NFGram Desktop.\nΕίναι γρήγορη και ασφαλής.",
 
     "lng_settings_enhanced": "Βελτιωμένες ρυθμίσεις",
     "lng_settings_network": "Δίκτυο",
     "lng_settings_net_upload_speed_boost": "Ενίσχυση ταχύτητας φόρτωσης",
-    "lng_settings_net_download_speed_boost": "Ενίσχυση ταχύτητας λήψης",
     "lng_settings_show_message_id": "Εμφάνιση ID μηνύματος",
     "lng_settings_button": "Πλήκτρο",
     "lng_settings_show_emoji_button_as_text": "Εμφάνιση πλήκτρου emoji ως κείμενο",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Απενεργοποίηση κίνησης Premium",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Ώρα με δευτερόλεπτα",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Απόκρυψη μετρητή χρηστών Σε Σύνδεση",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "Gifs",
     "lng_profile_gifs#one": "{count} gif",
     "lng_profile_gifs#other": "{count} gifs",
-    "lng_profile_gifs_header": "Gifs",
     "lng_media_gif_empty": "Δεν υπάρχουν gifs εδώ ακόμη",
 
     "lng_create_supergroup_title": "Νέα Supergroup",

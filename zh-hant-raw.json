@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "歡迎使用 64Gram 桌面版。\n我既快又安全。",
+    "lng_intro_about2": "歡迎使用 NFGram 桌面版。\n我既快又安全。",
 
     "lng_settings_enhanced": "增強設定",
     "lng_settings_network": "網路",
     "lng_settings_net_upload_speed_boost": "上傳加速",
-    "lng_settings_net_download_speed_boost": "下載加速",
     "lng_settings_show_message_id": "顯示訊息 ID",
     "lng_settings_button": "按鈕",
     "lng_settings_show_emoji_button_as_text": "Emoji 按鈕轉為文字",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "關閉付費用戶貼圖特效",
     "lng_settings_disable_global_search": "關閉全域搜尋",
     "lng_settings_show_seconds": "訊息時間顯示到秒",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "隱藏線上人數",
     "lng_settings_hide_stories": "隱藏動態",
     "lng_settings_screen_shot_mode": "截圖模式",
@@ -42,7 +40,7 @@
 
     "lng_net_speed_boost_title": "網路加速",
     "lng_net_speed_boost_desc": "警告：如果您的網路較慢的話，更改此項設定只會令情況惡化。",
-    "lng_show_emoji_button_as_text_desc": "提示：如果你的 64Gram 不能正確顯示 emoji 按鈕時，請開啟此選項。",
+    "lng_show_emoji_button_as_text_desc": "提示：如果你的 NFGram 不能正確顯示 emoji 按鈕時，請開啟此選項。",
     "lng_radio_controller_desc": "注意：電台遙控器是一個可以控制你的音樂串流 session 的實驗性機器人。",
     "lng_auto_unmute_desc": "注意：加入語音聊天時自動解除靜音。",
     "lng_settings_hide_messages_desc": "注意：訊息實際上並沒有隱藏！訊息依然可以觀看，只是文字被轉成「劇透」，且媒體不會自動下載。",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIFs",
     "lng_profile_gifs#one": "{count} 張 GIF",
     "lng_profile_gifs#other": "{count} 張 GIFs",
-    "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "這裡還沒有 GIF",
 
     "lng_create_supergroup_title": "建立超級群組",

@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "Bem vindo ao 64Gram Desktop \nUm cliente Rápido e Seguro",
+    "lng_intro_about2": "Bem vindo ao NFGram Desktop \nUm cliente Rápido e Seguro",
 
     "lng_settings_enhanced": "Configurações Melhoradas",
     "lng_settings_network": "Rede",
     "lng_settings_net_upload_speed_boost": "Aumentar Velocidade de Envio",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Mostrar ID da Mensagem",
     "lng_settings_button": "Botão",
     "lng_settings_show_emoji_button_as_text": "Mostrar Botão de Emoji como Texto",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Desativar Animação Premium",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Tempo em Segundos",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Ocultar Contador de Usuários Online",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIFs",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIFs",
-    "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "Você não tem GIFs salvos",
 
     "lng_create_supergroup_title": "Novo Supergrupo",

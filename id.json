@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "Selamat datang di aplikasi 64Gram Desktop.\nIni cepat dan aman.",
+    "lng_intro_about2": "Selamat datang di aplikasi NFGram Desktop.\nIni cepat dan aman.",
 
     "lng_settings_enhanced": "Pengaturan yang Ditingkatkan",
     "lng_settings_network": "Jaringan",
     "lng_settings_net_upload_speed_boost": "Peningkatan kecepatan unggah",
-    "lng_settings_net_download_speed_boost": "Peningkatan kecepatan unduh",
     "lng_settings_show_message_id": "Tampilkan ID pesan",
     "lng_settings_button": "Tombol",
     "lng_settings_show_emoji_button_as_text": "Tampilkan tombol emoji sebagai teks",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Nonaktifkan Animasi Premium",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Waktu dengan detik",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Sembunyikan penghitung pengguna online",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "Gif",
     "lng_profile_gifs#one": "{count} gif",
     "lng_profile_gifs#other": "{count} gif",
-    "lng_profile_gifs_header": "Gif",
     "lng_media_gif_empty": "Belum ada gif di sini",
 
     "lng_create_supergroup_title": "Supergrup Baru",

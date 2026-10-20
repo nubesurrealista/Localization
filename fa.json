@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "به 64Gram دسکتاپ خوش آمدید.\nسریع و امن.",
+    "lng_intro_about2": "به NFGram دسکتاپ خوش آمدید.\nسریع و امن.",
 
     "lng_settings_enhanced": "تنظیمات افزوده شده",
     "lng_settings_network": "شبکه",
     "lng_settings_net_upload_speed_boost": "افزایش سرعت دانلود/آپلود",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها",
     "lng_settings_button": "دکمه",
     "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Time with seconds",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "گیف‌ها",
     "lng_profile_gifs#one": "{count} گیف",
     "lng_profile_gifs#other": "{count} گیف",
-    "lng_profile_gifs_header": "گیف‌ها",
     "lng_media_gif_empty": "هنوز گیفی موجود نیست",
 
     "lng_create_supergroup_title": "ابرگروه جدید",

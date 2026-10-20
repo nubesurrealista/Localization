@@ -1,10 +1,9 @@
 {
-    "lng_intro_about2": "Benvenuti nell'app 64Gram Desktop.\nÈ veloce e sicura.",
+    "lng_intro_about2": "Benvenuti nell'app NFGram Desktop.\nÈ veloce e sicura.",
 
     "lng_settings_enhanced": "Migliorie",
     "lng_settings_network": "Rete",
     "lng_settings_net_upload_speed_boost": "Incremento velocità di caricamento",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Mostra ID dei messaggi",
     "lng_settings_button": "Pulsanti",
     "lng_settings_show_emoji_button_as_text": "Testo invece delle emoji",
@@ -28,7 +27,6 @@
     "lng_settings_disable_premium_animation": "Disattiva l'animazione di Premium",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Time with seconds",
-    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
@@ -80,7 +78,6 @@
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIF",
-    "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Ancora nessuna GIF",
 
     "lng_create_supergroup_title": "Nuovo supergruppo",
